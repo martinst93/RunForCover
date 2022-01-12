@@ -1,0 +1,11 @@
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\bin\Debug\net6.0\RunForCover.Utility.deps.json
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\bin\Debug\net6.0\RunForCover.Utility.dll
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\bin\Debug\net6.0\ref\RunForCover.Utility.dll
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\bin\Debug\net6.0\RunForCover.Utility.pdb
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\obj\Debug\net6.0\RunForCover.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\obj\Debug\net6.0\RunForCover.Utility.AssemblyInfoInputs.cache
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\obj\Debug\net6.0\RunForCover.Utility.AssemblyInfo.cs
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\obj\Debug\net6.0\RunForCover.Utility.csproj.CoreCompileInputs.cache
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\obj\Debug\net6.0\RunForCover.Utility.dll
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\obj\Debug\net6.0\ref\RunForCover.Utility.dll
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.Utility\obj\Debug\net6.0\RunForCover.Utility.pdb

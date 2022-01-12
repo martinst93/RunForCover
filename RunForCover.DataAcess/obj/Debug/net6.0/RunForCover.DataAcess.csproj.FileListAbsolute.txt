@@ -1,0 +1,17 @@
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\obj\Debug\net6.0\RunForCover.DataAcess.csproj.AssemblyReference.cache
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\obj\Debug\net6.0\RunForCover.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\obj\Debug\net6.0\RunForCover.DataAcess.AssemblyInfoInputs.cache
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\obj\Debug\net6.0\RunForCover.DataAcess.AssemblyInfo.cs
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\obj\Debug\net6.0\RunForCover.DataAcess.csproj.CoreCompileInputs.cache
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\bin\Debug\net6.0\RunForCover.DataAcess.deps.json
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\bin\Debug\net6.0\RunForCover.DataAcess.runtimeconfig.json
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\bin\Debug\net6.0\RunForCover.DataAcess.dll
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\bin\Debug\net6.0\ref\RunForCover.DataAcess.dll
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\bin\Debug\net6.0\RunForCover.DataAcess.pdb
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\bin\Debug\net6.0\RunForCover.Models.dll
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\bin\Debug\net6.0\RunForCover.Models.pdb
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\obj\Debug\net6.0\RunForCover.DataAcess.csproj.CopyComplete
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\obj\Debug\net6.0\RunForCover.DataAcess.dll
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\obj\Debug\net6.0\ref\RunForCover.DataAcess.dll
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\obj\Debug\net6.0\RunForCover.DataAcess.pdb
+D:\Vezbi_programiranje\.NET Exercises\RunForCover\RunForCover\RunForCover.DataAcess\obj\Debug\net6.0\RunForCover.DataAcess.genruntimeconfig.cache

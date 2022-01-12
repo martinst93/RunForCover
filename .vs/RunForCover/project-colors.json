@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26fe76db-adc7-4142-b1c3-b2c1cac1d770": {
+      "ProjectGuid": "26fe76db-adc7-4142-b1c3-b2c1cac1d770",
+      "DisplayName": "RunForCoverWeb",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d0c9a530-6570-4593-b323-a0a17ce7021d": {
+      "ProjectGuid": "d0c9a530-6570-4593-b323-a0a17ce7021d",
+      "DisplayName": "RunForCover.DataAcess",
+      "ColorIndex": 1
+    },
+    "897cc1aa-5a61-446c-9c31-bd5af2ed2bfc": {
+      "ProjectGuid": "897cc1aa-5a61-446c-9c31-bd5af2ed2bfc",
+      "DisplayName": "RunForCover.Models",
+      "ColorIndex": 2
+    },
+    "9a2a6069-9ceb-443d-889d-8c45892238f4": {
+      "ProjectGuid": "9a2a6069-9ceb-443d-889d-8c45892238f4",
+      "DisplayName": "RunForCover.Utility",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
